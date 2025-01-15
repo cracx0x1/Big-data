@@ -21,9 +21,9 @@ The three defining characteristics of Big Data are commonly referred to as the 3
 
 Big Data is used in various applications, including:
 
-1. Predictive analytics
-2. Real-time monitoring
-3. Personalized recommendations
-4. Fraud detection.
+- Predictive analytics
+- Real-time monitoring
+- Personalized recommendations
+- Fraud detection.
 
 
